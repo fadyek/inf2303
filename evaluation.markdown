@@ -1,23 +1,52 @@
 # Course Structure
 
-This course will be taught as a seminar.
-While the instructor will at times present material to complement the
-  readings, much of the time will be spent discussing and analyzing
+Some topics in this course will be taught in a seminar-like way. Presenting
+  concepts of open source software raises a few topics with heated discussions.
+  Seminar sessions are ideal in tackling such topics.
+While the instructor will present material to complement the
+  readings, some of the time will be spent discussing and analyzing
   the readings.
 Students are expected to take responsibility for their learning of the
   material through active engagement with the assigned readings,
   through participation in course discussion, and through their
-  individual work on a research paper.
+  individual work on assignments and a research paper.
 
 # Deliverables and Evaluation
 
 Grades will be based on the following components:
 
+  * participation in an open source project (**15%**),
   * preparation for the class (“memos,” **15%** of the course grade),
   * contribution to class discussion (**15%**),
-  * the term paper (three deliverables jointly worth **50%**),
+  * the term paper (three deliverables jointly worth **35%**),
   * reviews of other students’ paper proposals (**10%**),
   * a course “patch” (**10%**, see below).
+
+### Participation in an open source project — 15%
+
+A simple website about a familiar subject, e.g. teaching highschool kids
+  about familiar topics such as math, history ...etc, will be provided where
+  students can enhance the website to achieve certain goals. Participation
+  should be non-trivial, i.e. not limited to adding a few comments or fixing
+  some typos. Contribution can range from creating content to enhancing
+  the visual appearance and look and feel of the website. Also adding some
+  simple dynamic capabilities to the content (hide/show) is possible.
+
+The website is simple because it requires no server and no server-side
+  programming (no php, python, ...etc). Basic HTML knowledge should be
+  sufficient for those who want to contribute by editing the content. Those who
+  prefer to change the visual appearance can use CSS skills. Finally Javascript
+  can be used for the light dynamic jobs.
+
+In order to facilitate group collaboration on the website, git and github.com
+  will be used. They will also be used to submit the patch (see below).
+
+Alternatively, if students feel they can contribute to existing open source
+  projects their contribution can be considered instead of improving the simple
+  website provided they can prove what they have contribute to which project.
+  Contribution does not have to be done by programming. It could be enhancing
+  the documentation of a project for example.
+  Places to look for are github.com and sourceforge.net
 
 ### Contribution to Class Discussion — 15%
 
@@ -35,15 +64,10 @@ Rather, students are expected to come to class prepared, actively
   the readings and of what has been said up to that point.
 Class discussion will follow a structure that will be described in a
   handout.
-Each student will be asked to serve as one of the “chairs” for
-  one week’s discussion and as a “panelist” on several other ones.
-Students who have difficulty speaking in public should see the
-  instructor early in the semester, so that we could discuss possible
-  remedies.
 
 ### Memos — 15%
 
-For all classes other than the first and the last, the students will
+For all classes other than the first three and the last one, the students will
   prepare “memos” on the readings assigned for that class.
 Each memo should be no longer than 1 page and should be formatted in
   accordance with this template:
@@ -60,21 +84,18 @@ The purpose of the memos is to help you make better sense of the
 Each memo should consist of four sections.
 
 * Central issues in the readings;
-* The points on which the authors agree and disagree;
 * Your position on the issues (with explanation);
 * Three questions for discussion in the class (provide a brief
   explanation of your questions if necessary).
   
-The memos are due by email, <span class="important">by 8 am of the day
+The memos are due by email, <span class="important">by the beginning
   of each class</span>. (Please see below on the late policy for
   memos.)
   Please <span class="important">email your memo as a PDF attachment to all members of your team **and** the instructor.</span>
   Please <span class="important">put “INF2303 memo for *date* class” for subject.</span>
   (Subsitute the correct date of the class, e.g., “INF2303 memo for July 10 class.”)
-Students responsible for chairing each class will be tasked with
-  reading and summarizing submitted memos in writing.
 
-### Term Paper and Presentation - 50%
+### Term Paper and Presentation - 35%
 
 A major component of the course is a term paper exploring a specific
   topic related to the content of the course.
